@@ -1,70 +1,35 @@
-# Getting Started with Create React App
+# Eazy Learn
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Check out the website: [Eazy Learn](https://Eazy Learn-ruby.vercel.app/)
 
-## Available Scripts
+## Tech used
 
-In the project directory, you can run:
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%2311C684.svg?style=for-the-badge&logo=html5&logoColor=140200"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%23F878B5.svg?style=for-the-badge&logo=css3&logoColor=140200"/> <img alt="React" src="https://img.shields.io/badge/react-%236B74E0.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img alt="React router" src="https://img.shields.io/badge/reactrouter-%230671D5.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 
-### `npm start`
+Icons made by [Freepik](https://www.flaticon.com/authors/freepik) from [www.flaticon.com](www.flaticon.com).
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🗣️ About this project
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+I want to create a vocal e-learning page that I can save on my phone and have to hand when reading with my niece who's just started learning to read. I often need to find out what a certain sound is and end up googling it every time. I need something quick and easy to click on. 
 
-### `npm test`
+- Simple idea - a list of sounds to listen to ✔️
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Small stretch goal - flip whole page and it has images (e.g fox for f) instead of the letter ✔️
 
-### `npm run build`
+- Stretch goal - login and track progress through the sounds
+- Stretch goal 2 - games ✔️
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 👇 Prerequisites
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Before installation, please make sure you have already installed following tools:
+- [Git](https://git-scm.com/downloads)
+- [NodeJs](https://nodejs.org/en/download/)
 
-### `npm run eject`
+## 🛠️ Installation Steps
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+1. Fork the project
+2. Clone the project
+3. Navigate to the project directory `cd Eazy-Learn`
+4. Install dependencies with `npm install`
+5. Run `npm start`
