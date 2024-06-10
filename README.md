@@ -1,6 +1,6 @@
 # Eazy Learn
 
-Check out the website: [Eazy Learn](https://Eazy Learn-ruby.vercel.app/)
+Check out the website: [Eazy Learn](eazzy-learn.vercel.app)
 
 ## Tech used
 
