@@ -1,6 +1,6 @@
 # Eazy Learn
 
-Check out the website: [Eazy Learn]([eazzy-learn.vercel.app](https://ezylrn.vercel.app))
+Check out the website: [Eazy Learn](https://ezylrn.vercel.app)
 
 ## Tech used
 
